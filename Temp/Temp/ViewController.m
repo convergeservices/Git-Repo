@@ -22,6 +22,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
+=======
+ //   NSLog(@"this is a test");
+>>>>>>> added nslog
 }
 
 - (void)viewDidUnload
